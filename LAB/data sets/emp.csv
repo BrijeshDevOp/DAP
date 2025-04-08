@@ -1,0 +1,16 @@
+EID,ENAME,SALARY,DEPEND,VEHICLE
+101,Sunitha,200000,2,Car
+102,Nitha,10000,0,None
+103,Gowri,300000,3,Bike
+104,Ravi,,1,Scooter
+105,Ajay,50000,1,None
+106,Meera,75000,2,Bike
+107,Kiran,120000,0,Car
+108,Divya,98000,1,Scooter
+109,Manu,67000,2,Car
+110,Latha,,3,Bike
+111,Ramesh,82000,0,None
+112,Deepa,91000,1,Car
+113,Suresh,45000,1,Scooter
+114,Anu,100000,2,None
+115,Vikram,55000,1,Bike
